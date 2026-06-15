@@ -1,6 +1,6 @@
 /*
  * MIT License
- * Copyright (c) 2024 Message App
+ * Copyright (c) 2026 Message App
  * See LICENSE file in root directory for full license text.
  */
 
